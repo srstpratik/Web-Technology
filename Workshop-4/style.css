@@ -1,0 +1,46 @@
+*{
+    font-family: cursive;
+}
+.container{
+    background-color: rgb(177, 213, 212);
+    height: 500px;
+    border: 1px solid black;
+    border-style:ridge;
+    width: 800px;
+    margin:auto;
+}
+.container1{
+    height: 100px;
+    width:auto;
+    text-align: center;
+}
+h1{
+    height: 100px;
+    width: auto;
+}
+.container2{
+    height: 400px;
+    width: auto;
+}
+.container21{
+    height: 400px;
+    width: 33.33%;
+    float: left;
+    text-align: center;
+}
+.container22{
+    height: 400px;
+    width: 33.33%;
+    float: left;
+    text-align: center;
+}
+.container23{
+    height: 400px;
+    width: 33.33%;
+    float: left;
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
